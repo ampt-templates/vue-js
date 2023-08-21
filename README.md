@@ -1,29 +1,15 @@
-# vue-js
+<p align="center">
+    <div width="100%" align="center">
+        <h1>Ampt + VueJS Template</h1>
+    </div>
+    <p align="center">
+        <img src="src/assets/ampt.svg" alt="ampt-logo" width="200"/>
+        <img src="src/assets/logo.svg" alt="vue-logo"  width="200"/>
+    </p>
+</p>
 
-This template should help get you started developing with Vue 3 in Vite.
+## Welcome to Ampt!
 
-## Recommended IDE Setup
+To run this app locally, simply clone down this repository and run `ampt`. You may need to login to the Ampt CLI if you haven't already (you can install this by running `npm install -g @ampt/cli`). To start the local development server, run `ampt dev` or `dev` in the Ampt shell.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Happy coding!

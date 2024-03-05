@@ -5,7 +5,8 @@
   "scripts": {
     "ampt:dev": "vite",
     "ampt:build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "gitpod:ampt": "./node_modules/.bin/ampt"
   },
   "dependencies": {
     "vue": "^3.3.4"
@@ -16,10 +17,7 @@
     "vite": "^4.4.6"
   },
   "ampt": {
-    "org": "",
-    "app": "vue-js"
-  },
-  "files": [
-    "*"
-  ]
+    "app": "",
+    "org": ""
+  }
 }
